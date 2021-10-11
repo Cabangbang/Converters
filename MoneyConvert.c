@@ -1,5 +1,5 @@
 /*
-lab test 3
+Convert Money
 Author: Raphael Bien Cabangbang
 Student number: C19464094
 Compiler: Mingw64
